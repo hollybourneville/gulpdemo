@@ -1,0 +1,22 @@
+$myFav : salmon;
+
+body{
+	background-color: $myFav;
+
+	div{
+		display:flex;
+	}
+	
+	h1{
+		border:1px $myFav solid;
+		color:red;
+		font-size:2em;
+	}
+}
+
+
+
+
+
+
+

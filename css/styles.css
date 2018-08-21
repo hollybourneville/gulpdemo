@@ -1,0 +1,12 @@
+body {
+  background-color: salmon; }
+  body div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+  body h1 {
+    border: 1px salmon solid;
+    color: red;
+    font-size: 2em; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBQ0MseUJBSGMsRUFjZDtFQVpEO0lBSUUscUJBQVk7SUFBWixxQkFBWTtJQUFaLGNBQVksRUFDWjtFQUxGO0lBUUUseUJBQXVCO0lBQ3ZCLFdBQVM7SUFDVCxlQUFhLEVBQ2IiLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIiRteUZhdiA6IHNhbG1vbjtcblxuYm9keXtcblx0YmFja2dyb3VuZC1jb2xvcjogJG15RmF2O1xuXG5cdGRpdntcblx0XHRkaXNwbGF5OmZsZXg7XG5cdH1cblx0XG5cdGgxe1xuXHRcdGJvcmRlcjoxcHggJG15RmF2IHNvbGlkO1xuXHRcdGNvbG9yOnJlZDtcblx0XHRmb250LXNpemU6MmVtO1xuXHR9XG59XG5cblxuXG5cblxuXG5cbiJdfQ== */
